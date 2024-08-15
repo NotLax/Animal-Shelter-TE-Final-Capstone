@@ -101,7 +101,7 @@ INSERT INTO pets(
 
 INSERT INTO pets(
 	species, gender, age, name, breed, pet_size, color, description, profile_pic, is_adopted)
-	VALUES ('Cat', 'female', 9, 'Molly', 'Calico', 'Small', 'Black, White, Orange',
+	VALUES ('Cat', 'female', 9, 'Molly', 'Unknown', 'Small', 'Calico',
 			'Molly is a graceful and enchanting feline with a coat as soft as a cloud and eyes that shine with curiosity. She moves with a gentle elegance, often found lounging in sunlit spots or playfully pouncing on her favorite toys. With a serene demeanor and a penchant for cuddling, Molly is the perfect companion for quiet evenings and cozy moments. Her affectionate purrs and delicate headbutts are her way of showing love and appreciation. Whether she’s watching the world from a windowsill or curling up beside you, Molly adds a touch of warmth and charm to every day.',
 			'https://res.cloudinary.com/ddqchrxtm/image/upload/v1723648622/Molly_cat_qweas1.jpg', false);
 
